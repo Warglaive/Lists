@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Elements at Odd Positions", "01. Remove Elements at Odd Positions\01. Remove Elements at Odd Positions.csproj", "{AFF5105C-676A-40F9-B25C-CFB3E901341B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Track Downloader", "02. Track Downloader\02. Track Downloader.csproj", "{6160C074-BA27-4F67-8A5A-53140DAB7F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Equal Sum After Extraction", "03. Equal Sum After Extraction\03. Equal Sum After Extraction.csproj", "{8CDD85AE-D8AD-4847-B0E0-539FC45FC79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Flip List Sides", "04. Flip List Sides\04. Flip List Sides.csproj", "{02618953-C95C-470D-9A1C-B45B18E3719F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFF5105C-676A-40F9-B25C-CFB3E901341B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF5105C-676A-40F9-B25C-CFB3E901341B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF5105C-676A-40F9-B25C-CFB3E901341B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF5105C-676A-40F9-B25C-CFB3E901341B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6160C074-BA27-4F67-8A5A-53140DAB7F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6160C074-BA27-4F67-8A5A-53140DAB7F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6160C074-BA27-4F67-8A5A-53140DAB7F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6160C074-BA27-4F67-8A5A-53140DAB7F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDD85AE-D8AD-4847-B0E0-539FC45FC79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDD85AE-D8AD-4847-B0E0-539FC45FC79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDD85AE-D8AD-4847-B0E0-539FC45FC79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDD85AE-D8AD-4847-B0E0-539FC45FC79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02618953-C95C-470D-9A1C-B45B18E3719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02618953-C95C-470D-9A1C-B45B18E3719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02618953-C95C-470D-9A1C-B45B18E3719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02618953-C95C-470D-9A1C-B45B18E3719F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

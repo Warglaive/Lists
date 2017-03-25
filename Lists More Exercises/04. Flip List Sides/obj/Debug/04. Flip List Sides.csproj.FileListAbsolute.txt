@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\bin\Debug\_04.Flip_List_Sides.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\obj\Debug\04. Flip List Sides.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lists - More Exercises\04. Flip List Sides\obj\Debug\_04.Flip_List_Sides.pdb

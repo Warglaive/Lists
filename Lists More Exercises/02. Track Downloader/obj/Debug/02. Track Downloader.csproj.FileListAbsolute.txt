@@ -1,0 +1,6 @@
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe.config
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\bin\Debug\_02.Track_Downloader.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\obj\Debug\_02.Track_Downloader.exe
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\obj\Debug\_02.Track_Downloader.pdb
+C:\Users\Attractivee\Documents\Visual Studio 2015\Projects\Lists - More Exercises\02. Track Downloader\obj\Debug\02. Track Downloader.csprojResolveAssemblyReference.cache
