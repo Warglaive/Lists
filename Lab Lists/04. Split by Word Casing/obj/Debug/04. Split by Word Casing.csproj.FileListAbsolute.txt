@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\bin\Debug\_04.Split_by_Word_Casing.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\04. Split by Word Casing\obj\Debug\_04.Split_by_Word_Casing.pdb

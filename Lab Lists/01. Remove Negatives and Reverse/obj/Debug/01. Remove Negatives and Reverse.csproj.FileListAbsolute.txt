@@ -1,0 +1,6 @@
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe.config
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\bin\Debug\_01.Remove_Negatives_and_Reverse.pdb
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\obj\Debug\01. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.exe
+c:\users\attractivee\documents\visual studio 2015\Projects\Lab Lists\01. Remove Negatives and Reverse\obj\Debug\_01.Remove_Negatives_and_Reverse.pdb

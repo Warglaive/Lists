@@ -1,0 +1,6 @@
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\obj\Debug\05. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+C:\Users\Attractivee\documents\visual studio 2015\Projects\Lab Lists\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb
